@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/utkarsh22495925" target="blank"><img align="center" src="https://www.svgrepo.com/show/362166/social-twitter.svg" alt="utkarsh22495925" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/utkarsh-rai-466a54218/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="https://www.linkedin.com/in/utkarsh-rai-466a54218/" height="30" width="40" /></a>
-<a href="profile/raiutkarsh554" target="blank"><img align="center" src="https://www.svgrepo.com/show/341892/hackerrank.svg" alt="profile/raiutkarsh554" height="30" width="40" /></a>
+<a href="https://hackerrank.com/profile/raiutkarsh554" target="blank"><img align="center" src="https://www.svgrepo.com/show/341892/hackerrank.svg" alt="profile/raiutkarsh554" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/raiutkarsh554/" target="blank"><img align="center" src="https://camo.githubusercontent.com/d6c0d9ab40690c37b31e155ca2292f304754921ea47f7ecb9e4e6052a5e2cfd2/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476353536477644c705a7a656863647952494248702d4b346f5a774f76464177426e445a6b44706a7372486c76672673" alt="raiutkarsh554/" height="30" width="40" /></a>
 </p>
 
